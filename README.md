@@ -1,6 +1,6 @@
 ## CS5293sp23 – Project3
 
-## Name: Harsha Vardhan
+## Name: Likhitha Reddy Gundre
 
 ## Project Description:
 This project aims to process PDF files provided via the command line. It extracts the raw text from each page of the PDF files and applies cleaning procedures to eliminate punctuation and identify and exclude any blank or corrupted PDFs. The cleaned text is then transformed into vectors, taking into account the corresponding city information. The project subsequently carries out K-Means, Hierarchical, and DBSCAN clustering algorithms on the vectorized data, computing silhouette, Davies, and Calinski values for each clustering approach. To determine the most suitable value of k for each algorithm, a range of k values from 2 to 51 is considered. Finally, the project generates a TSV file containing the obtained results, organized in a tab-separated format.
