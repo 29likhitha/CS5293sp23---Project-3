@@ -18,15 +18,6 @@ nltk installation: pipenv install nltk
 To run the project: pipenv run python project3.py --document "CA FRENSO.pdf"
 To run the pytests: pipenv run python -m pytest
 
-
-# Video:
-
-
-https://user-images.githubusercontent.com/114453047/236927616-abb129ee-a9cf-4f38-b6f8-26f083585960.mp4
-
-
-
-
 ## Files
 # project3.ipynb
 This file initially reads all the PDF files located in the "smartcity" folder. It extracts the city names and raw text from each PDF and stores them in a dataframe.
