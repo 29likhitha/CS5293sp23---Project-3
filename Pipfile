@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 pypdf = "*"
 pandas = "*"
-nltk = "*"
 scikit-learn = "*"
 pytest = "*"
 
